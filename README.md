@@ -21,5 +21,5 @@ This project analyzes global retail sales data to understand product performance
 - Standard Class shipping has longest delivery time
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard .png)
+![Global_Superstore_Dashboard](dashboard.png)
 
